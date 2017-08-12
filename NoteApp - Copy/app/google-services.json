@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699804710267",
+    "firebase_url": "https://gauthcheck-69201.firebaseio.com",
+    "project_id": "gauthcheck-69201",
+    "storage_bucket": "gauthcheck-69201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699804710267:android:1c58b8a7c70c3572",
+        "android_client_info": {
+          "package_name": "com.janithwannidev.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699804710267-9c15cacn4rpnapdig00pn1fv4dhrvvqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.janithwannidev.noteapp",
+            "certificate_hash": "fc31a505d8254f2b2ccbf1c10b6fc5b6ab139fd1"
+          }
+        },
+        {
+          "client_id": "699804710267-2sgs7hf5rhbfaflmlurha6jtniosppp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDshdjiwgAE3ah-5GYHnysNIW0kB7ED69k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699804710267-2sgs7hf5rhbfaflmlurha6jtniosppp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
